@@ -5,10 +5,11 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
- Hola, soy Abdiel García! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hola👋, Soy Abdiel García</h1></summary>
+  </ul>
+</div>
 
 <!--Start Intro-->               
 <p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. Mi enfoque principal está en el desarrollo de software utilizando C# .NET. </p>
