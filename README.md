@@ -1,9 +1,7 @@
 
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
   <ul align="left">
@@ -12,10 +10,12 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. Mi enfoque principal está en el desarrollo de software utilizando C# .NET. y PHP </p>
+<p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. </p>
+
+<picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZveHY1dXZlYXczcmZtYTUxZTJsdXp2cHQ3eWluZXVwcGMydXljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xEynp8JtHa05sA/giphy.gif" width = 250px></picture>
 
 - 🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Ingeniería (UNI).
-- 💻 Desarrollador Junior con conocimiento basico en C# .NET y PHP.
+- 💻 Desarrollador Junior con conocimiento basico en C# .NET y P.
 - 🌱 Me apasiona aprender nuevas tecnologías y mejorar cada día mis habilidades como programador.
 - 🚀 Creo que cada proyecto es una oportunidad para crecer, innovar y aplicar lo aprendido.
 - 💡 Me gusta resolver problemas con lógica, creatividad y un enfoque práctico en el desarrollo de software.
@@ -32,9 +32,15 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lenguajes y herramientas</h2> 
+
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,c#,sqserver,html,css,git,vscode,postman&perline=10"  />
-</p>
+  <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg"> </code> 
+   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg"></code>
+   <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"> </code>
+  <code> <img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg"> </code>
+    <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg"> </code> 
+      <code> <img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg"> </code>
+  </p>
 <br />
 
 
@@ -47,85 +53,32 @@
 </p>
 <br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Estadisticas en Github 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeyondTh3Limit&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-       <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Último proyecto</strong></h3>
-      <p align="center">
-        <a href="https://github.com/BeyondTh3Limit/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=BeyondTh3Limit&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Contribuciones más destacadas</strong></h3>
-      <p align="center">
-        <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Gráfica de contribución 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyondTh3Limit&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
----
-
-<!--Contact Section--> 
-
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<!--Footer--> 
+<h2 align="center"> 📊 Estadisticas en github 📊</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeyondTh3Limit&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeyondTh3Limit&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeyondTh3Limit&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeyondTh3Limit&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BeyondTh3Limit&theme=github_dark&utcOffset=8">
+	
 </p>
 
-------
 
-Credit: [Kiran1689](https://github.com/Kiran1689)
 
-Last Edited on: 29/11/2023
+<h3 align="left">Contactame:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdiel-garcia-715215325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/abdiel.garciaespinoza/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/b3yond.birthday?igsh=MW0za3Q0cjdqZmF1NA==" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
+    <a href="abdielespinozag2004@gmail.com" target="blank"><img align="center"
+      src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png"
+      alt="_._.adam._" height="30" width="40" /></a>
+</p>
+
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
