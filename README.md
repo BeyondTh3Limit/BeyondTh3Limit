@@ -12,15 +12,14 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. Mi enfoque principal está en el desarrollo de software utilizando C# .NET. </p>
+<p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. Mi enfoque principal está en el desarrollo de software utilizando C# .NET. y PHP </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+- 🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Ingeniería (UNI).
+- 💻 Desarrollador Junior con conocimiento basico en C# .NET y PHP.
+- 🌱 Me apasiona aprender nuevas tecnologías y mejorar cada día mis habilidades como programador.
+- 🚀 Creo que cada proyecto es una oportunidad para crecer, innovar y aplicar lo aprendido.
+- 💡 Me gusta resolver problemas con lógica, creatividad y un enfoque práctico en el desarrollo de software.
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
