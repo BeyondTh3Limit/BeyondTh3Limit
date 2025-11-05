@@ -39,7 +39,7 @@
 
 
 <!--Trophies Section-->   
-<h2 align="center">🏆 Trofeos de Github🏆</h2>
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/BeyondTh3Limit/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=BeyondTh3Limit&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
