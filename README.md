@@ -15,7 +15,7 @@
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZveHY1dXZlYXczcmZtYTUxZTJsdXp2cHQ3eWluZXVwcGMydXljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xEynp8JtHa05sA/giphy.gif" width = 250px></picture>
 
 - 🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Ingeniería (UNI).
-- 💻 Desarrollador Junior con conocimiento basico en C# .NET y P.
+- 💻 Desarrollador Junior con conocimiento basico en el desarrollo web.
 - 🌱 Me apasiona aprender nuevas tecnologías y mejorar cada día mis habilidades como programador.
 - 🚀 Creo que cada proyecto es una oportunidad para crecer, innovar y aplicar lo aprendido.
 - 💡 Me gusta resolver problemas con lógica, creatividad y un enfoque práctico en el desarrollo de software.
