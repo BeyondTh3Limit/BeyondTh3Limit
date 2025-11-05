@@ -10,7 +10,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">Soy un desarrollador apasionado por la tecnología y la creación de soluciones funcionales que simplifiquen la vida de las personas y las empresas. </p>
+<p align="left">Soy un desarrollador apasionado por la tecnología y me gusta crear soluciones funcionales que simplifiquen la vida de las personas y las empresas. </p>
 
 <picture> <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZveHY1dXZlYXczcmZtYTUxZTJsdXp2cHQ3eWluZXVwcGMydXljMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xEynp8JtHa05sA/giphy.gif" width = 250px></picture>
 
