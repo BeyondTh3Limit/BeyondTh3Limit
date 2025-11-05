@@ -24,7 +24,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BeyondTh3Limit &label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BeyondTh3Limit" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=BeyondTh3Limit&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="BeyondTh3Limit" style="padding-right:20px;" />
 </p>
 
 ---
