@@ -56,7 +56,7 @@
       <h3 align="center"><strong>Estadisticas en Github</strong></h3>
       <p align="center">
         <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeyondTh3Limit&count_private=true&show_icons=true&theme=nightowl" alt="Estadisticas en Github" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeyondTh3Limit&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
         </a>
       </p>
     </td>
