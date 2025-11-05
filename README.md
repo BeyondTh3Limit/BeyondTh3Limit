@@ -60,11 +60,11 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Estadisticas de racha</strong></h3>
+       <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://streak-stats.demolab.com?user=BeyondTh3Limit&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
