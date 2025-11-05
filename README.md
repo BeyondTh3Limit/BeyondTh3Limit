@@ -17,7 +17,7 @@
 - 🎓 Estudiante de Ingeniería en Sistemas en la Universidad Nacional de Ingeniería (UNI).
 - 💻 Desarrollador Junior con conocimiento basico en el desarrollo web.
 - 🌱 Me apasiona aprender nuevas tecnologías y mejorar cada día mis habilidades como programador.
-- 🚀 Creo que cada proyecto es una oportunidad para crecer, innovar y aplicar lo aprendido.
+- 🚀 Cada proyecto es una oportunidad para crecer, innovar y aplicar lo aprendido.
 - 💡 Me gusta resolver problemas con lógica, creatividad y un enfoque práctico en el desarrollo de software.
 
 <!--End Intro-->
