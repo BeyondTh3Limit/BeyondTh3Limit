@@ -53,7 +53,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Estadisticas en Github</strong></h3>
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/BeyondTh3Limit">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeyondTh3Limit&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
@@ -61,10 +61,10 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Estadísticas de racha</strong></h3>
+      <h3 align="center"><strong>Estadisticas de racha</strong></h3>
       <p align="center">
         <a href="https://github.com/BeyondTh3Limit">
-          <img align="center" src="https://streak-stats.demolab.com?user=BeyondTh3Limit&theme=nightowl" alt="Estadísticas de racha" />
+          <img align="center" src="https://streak-stats.demolab.com?user=BeyondTh3Limit&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -79,9 +79,9 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Contribuciones más destacadas</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
+        <a href="https://github.com/BeyondTh3Limit">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
@@ -91,22 +91,12 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 Gráfica de contribución 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeyondTh3Limit&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 ---
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 
 <!--Contact Section--> 
 
